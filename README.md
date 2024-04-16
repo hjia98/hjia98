@@ -154,13 +154,12 @@
 </div>
 <p>&nbsp;</p>                                                                                                                                 
 <hr>
-
-<!-- <div align="center">
+ <div align="center">
   <h2>Github stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=hjia98&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/hjia98" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjia98-48&theme=material-palenight" alt="https://github.com/hjia98" />
-</div> -->
+</div>
 <hr>
 
 <div align="center">
