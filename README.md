@@ -11,7 +11,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-    
 - 🌱 I’m currently learning **To be Extroverted**
 
 - 👯 Looking out to collaborate on <strong>System Designing</strong>
@@ -23,7 +22,7 @@
 - 💬 Ask me about **Current Affairs & Philosophy 😆**
 
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
-    
+
 <p>&nbsp;</p>
     
   </samp>
@@ -156,15 +155,14 @@
 <p>&nbsp;</p>                                                                                                                                 
 <hr>
 
-<div align="center">
-  <h2>Github stats</h2> 
+<!-- <div align="center">
+  <h2>Github stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=hjia98&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/hjia98" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjia98-48&theme=material-palenight" alt="https://github.com/hjia98" />
-</div>
+</div> -->
 <hr>
 
 <div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="hjia98" />
+  <!-- <img  src="resources/img/github-contribution-grid-snake.svg" alt="hjia98" /> -->
 </div>
