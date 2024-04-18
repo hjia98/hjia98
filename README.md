@@ -29,7 +29,7 @@
 </div>
 
 <details align="center">
-<summary>🔬 <strong>my skillset</strong></summary>
+<summary>🔬 <strong>my skillet</strong></summary>
 
 <div>
   <div align="center">
